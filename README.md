@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Anant Paliwal
 
-<!--
-**anant25bai10688/anant25bai10688** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Student at VIT Bhopal University  
+- Pursuing B.Tech AIML 
+- Interested in Machine Learning and Software Development  
 
-Here are some ideas to get you started:
+## Goals
+I aim to build real-world projects, improve my programming skills, and prepare for internships.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Reach me at: anant.25bai10688@vitbhopal.ac.in
+
+
